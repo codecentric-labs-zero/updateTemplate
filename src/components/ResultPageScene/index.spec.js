@@ -11,6 +11,7 @@ const textIs = (text) => (
 );
 
 describe('ResultPageScene', () => {
+
   it('renders correctly', () => {
     const tree = renderer.create(
       <ResultPageScene />
