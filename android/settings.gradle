@@ -1,0 +1,3 @@
+rootProject.name = 'updateTemplate'
+
+include ':app'
